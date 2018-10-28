@@ -3,8 +3,8 @@
   Server side web application
   
  # What did I use ?
-  I used Visual Stuido code to develope it.
-  Link of demo:- 
+  <li>I used Visual Stuido code to develope it.</li>
+  <li>Link of demo:- </li>
 
 # What does it contains?
 This web page contain about me and how to contact me and the BMI calculator that I made.
