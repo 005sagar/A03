@@ -10,12 +10,13 @@
 This web page contain about me and how to contact me and the BMI calculator that I made.
 
 ## How to use
-
+<li>
 Fork into your own cloud account. 
 Clone the site to your machine.
 Open a command window in the new folder.
 Run npm install to install dependencies listed in package.json.
 Run node app.js to start the server.  (Hit CTRL-C to stop.)
+  </li>
 
 ```
 > npm install
