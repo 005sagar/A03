@@ -1,7 +1,12 @@
-# What is it
-This is my Project of Web App class but I am going to use it as my portifolio
+# SagarA03
+# What is this ?
+  Server side web application
+  
+ # What did I use ?
+  I used Visual Stuido code to develope it.
+  Link of demo:- 
 
-#What does it contains?
+# What does it contains?
 This web page contain about me and how to contact me and the BMI calculator that I made.
 
 ## How to use
